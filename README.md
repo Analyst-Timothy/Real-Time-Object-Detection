@@ -12,6 +12,9 @@ This project implements **real-time object detection** using **YOLOv5 and Google
 
 ## 📂 Project Structure
 📂 Real-Time-Object-Detection
+
 ├── 📄 README.md (Project documentation)
+
 ├── 📄 Real-Time-Object-Detection.ipynb (Google Colab Notebook)
+
 ├── 📄 detected_objects.jpg (Example output image)
